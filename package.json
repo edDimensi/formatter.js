@@ -13,7 +13,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "main": "./dist/common/formatter.js",
+  "main": "./dist/common/jquery.formatter.min.js",
   "devDependencies": {
     "amdclean": "~1.5.0",
     "grunt": "~0.4.3",
